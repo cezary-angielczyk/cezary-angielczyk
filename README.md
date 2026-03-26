@@ -10,7 +10,7 @@
 # Hi, I'm Cezary Angiel
 
 ## About
-Senior Data Scientist at [deepsense.ai](), with extensive experience in Data Science and Data Engineering.
+Senior Data Scientist at [line corp](), with extensive experience in Data Science and Data Engineering.
 Reach me at cezary.angielczyk@deepsense.ai | [LinkedIn](https://www.linkedin.com/in/cezary-angielczyk-a46767184)
 
 ## Focus Areas
